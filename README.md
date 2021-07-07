@@ -1,6 +1,6 @@
 # Molar mass calculator
 
-The `molarMassCalc.py` program uses ineffecient but effective algorithm to find the molar mass of a compound given the molecular formula. Use it at your own expense.
+The `molarMassCalc.py` program uses a stack-based algorithm to find the molar mass of a compound given the molecular formula. Use it at your own expense.
 
 You can either:
 - Download the `molarMassCalc.py` and `periodicTableElements.csv` and import the former into your program as modules, OR
